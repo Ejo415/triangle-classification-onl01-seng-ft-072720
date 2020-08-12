@@ -8,7 +8,7 @@ class Triangle
    
    def kind 
      
-     if (@x + @y) 
+     if (@x + @y) <= @z || (@y + @z) <= @x || (@z + @x) <= @y
    end
    
    
