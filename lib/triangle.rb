@@ -15,6 +15,9 @@ class Triangle
        self.kind = :equilateral
        
        elsif x == y || x == z || y == z
+       self.kind = :isosceles
+       
+       
        
    end
  end
