@@ -20,4 +20,4 @@ end
 
 class TriangleError < StandardError 
      #Triangle error code 
-   end
+end
