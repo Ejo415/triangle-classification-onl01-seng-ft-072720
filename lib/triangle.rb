@@ -12,7 +12,7 @@ class Triangle
        raise TriangleError
        
        elsif x == y && x == z 
-       self.kind  :equilateral
+       self.kind = :equilateral
        
        
    end
