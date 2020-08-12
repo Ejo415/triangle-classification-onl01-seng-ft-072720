@@ -17,7 +17,8 @@ class Triangle
        elsif x == y || x == z || y == z
        self.kind = :isosceles
        
-       
+     else 
+       self.kind = :scalene
        
    end
  end
