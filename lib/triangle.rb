@@ -10,7 +10,8 @@ class Triangle
      if (x + y) <= z || (y + z) <= x || (z + x) <= y 
        
        raise TriangleError
-       elsif x == y && x == z
+       elsif x == y && x == z 
+       self.kind = :equilateral
    end
  end
    
