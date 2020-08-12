@@ -1,3 +1,3 @@
 class Triangle
-  attr_acces
+  initialize(side_1, side_2, side_3)
 end
