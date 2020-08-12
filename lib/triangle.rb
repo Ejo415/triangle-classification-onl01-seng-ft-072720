@@ -14,6 +14,7 @@ class Triangle
        elsif x == y && x == z 
        self.kind = :equilateral
        
+       elsif x == y || x == z || y == z
        
    end
  end
