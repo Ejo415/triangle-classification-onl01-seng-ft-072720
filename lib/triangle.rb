@@ -8,6 +8,7 @@ class Triangle
    
    def kind 
      
+     if 
    end
    
    
