@@ -18,6 +18,3 @@ class Triangle
 
 end
 
-class TriangleError < StandardError 
-     #Triangle error code 
-end
