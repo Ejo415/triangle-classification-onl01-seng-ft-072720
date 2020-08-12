@@ -5,5 +5,10 @@ class Triangle
       @y = y 
       @z = z 
    end
+   
+   def kind 
+     
+   end
+   
 
 end
