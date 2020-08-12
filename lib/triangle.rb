@@ -14,7 +14,7 @@ class Triangle
    end
    
    
-   def TriangleError < StandardError 
+   class TriangleError < StandardError 
      #Triangle error code 
    end
 
